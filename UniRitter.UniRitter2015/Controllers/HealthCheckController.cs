@@ -8,8 +8,11 @@ using UniRitter.UniRitter2015.Models;
 
 namespace UniRitter.UniRitter2015.Controllers
 {
-    abstract public class BaseController<TModel> : ApiController
-        where TModel: class, IModel
+    public class HealthCheckController : ApiController
     {
+        public IHttpActionResult Get()
+        {
+            return Json<HealthCheck>(new HealthCheck { status = HealthStatus.green });
+        }
     }
 }
