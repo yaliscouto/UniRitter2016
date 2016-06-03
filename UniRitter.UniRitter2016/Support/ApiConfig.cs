@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Configuration;
 
-namespace UniRitter.UniRitter2015.Support
+namespace UniRitter.UniRitter2016.Support
 {
-    public class ApiConfig : UniRitter.UniRitter2015.Support.IApiConfig
+    public class ApiConfig : UniRitter.UniRitter2016.Support.IApiConfig
     {
         public string FullUrl
         {

@@ -2,11 +2,11 @@
 using System.Linq;
 using System.Collections.Generic;
 using MongoDB.Driver;
-using UniRitter.UniRitter2015.Models;
-using UniRitter.UniRitter2015.Support;
+using UniRitter.UniRitter2016.Models;
+using UniRitter.UniRitter2016.Support;
 using System.Threading.Tasks;
 
-namespace UniRitter.UniRitter2015.Services.Implementation
+namespace UniRitter.UniRitter2016.Services.Implementation
 {
     public class MongoRepository<TModel> : IRepository<TModel> where TModel : class, IModel
     {

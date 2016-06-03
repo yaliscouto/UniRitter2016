@@ -1,9 +1,9 @@
 ﻿using Microsoft.Owin.Hosting;
 using TechTalk.SpecFlow;
-using UniRitter.UniRitter2015.Services;
-using UniRitter.UniRitter2015.Services.Implementation;
+using UniRitter.UniRitter2016.Services;
+using UniRitter.UniRitter2016.Services.Implementation;
 
-namespace UniRitter.UniRitter2015.Specs
+namespace UniRitter.UniRitter2016.Specs
 {
     [Binding]
     public sealed class GlobalHooks

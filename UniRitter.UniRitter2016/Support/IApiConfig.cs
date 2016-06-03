@@ -1,5 +1,5 @@
 ﻿using System;
-namespace UniRitter.UniRitter2015.Support
+namespace UniRitter.UniRitter2016.Support
 {
     public interface IApiConfig
     {

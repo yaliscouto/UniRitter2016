@@ -7,8 +7,8 @@
     <ProjectGuid>{EC223770-6B20-4F47-B128-CB27842DA01D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UniRitter.UniRitter2015.Specs</RootNamespace>
-    <AssemblyName>UniRitter.UniRitter2015.Specs</AssemblyName>
+    <RootNamespace>UniRitter.UniRitter2016.Specs</RootNamespace>
+    <AssemblyName>UniRitter.UniRitter2016.Specs</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
@@ -123,7 +123,7 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UniRitter.UniRitter2015\UniRitter.UniRitter2015.csproj">
+    <ProjectReference Include="..\UniRitter.UniRitter2016\UniRitter.UniRitter2016.csproj">
       <Project>{ec0dd017-b973-452a-803c-828268a5c57d}</Project>
       <Name>UniRitter.UniRitter2015</Name>
     </ProjectReference>

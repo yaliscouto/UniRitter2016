@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web.Http;
-using UniRitter.UniRitter2015.Models;
+using UniRitter.UniRitter2016.Models;
 
-namespace UniRitter.UniRitter2015.Controllers
+namespace UniRitter.UniRitter2016.Controllers
 {
     public class HealthCheckController : ApiController
     {

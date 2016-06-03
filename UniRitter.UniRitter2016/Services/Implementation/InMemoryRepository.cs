@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using UniRitter.UniRitter2015.Models;
+using UniRitter.UniRitter2016.Models;
 
-namespace UniRitter.UniRitter2015.Services.Implementation
+namespace UniRitter.UniRitter2016.Services.Implementation
 {
     public class InMemoryRepository<TModel> : IRepository<TModel> where TModel: class, IModel
     {

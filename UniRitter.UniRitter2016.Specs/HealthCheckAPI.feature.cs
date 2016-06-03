@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace UniRitter.UniRitter2015.Specs
+namespace UniRitter.UniRitter2016.Specs
 {
     using TechTalk.SpecFlow;
     

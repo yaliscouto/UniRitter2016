@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace UniRitter.UniRitter2015.Services
+namespace UniRitter.UniRitter2016.Services
 {
     public interface IRepository<TModel>
     {

@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Http.ExceptionHandling;
 
-namespace UniRitter.UniRitter2015.Support
+namespace UniRitter.UniRitter2016.Support
 {
     public class NLogExceptionLogger : ExceptionLogger
     {

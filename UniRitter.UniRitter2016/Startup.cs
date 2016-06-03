@@ -4,13 +4,13 @@ using Ninject;
 using Ninject.Web.Common.OwinHost;
 using Ninject.Web.WebApi.OwinHost;
 using Owin;
-using UniRitter.UniRitter2015.Models;
-using UniRitter.UniRitter2015.Services;
-using UniRitter.UniRitter2015.Services.Implementation;
-using UniRitter.UniRitter2015.Support;
+using UniRitter.UniRitter2016.Models;
+using UniRitter.UniRitter2016.Services;
+using UniRitter.UniRitter2016.Services.Implementation;
+using UniRitter.UniRitter2016.Support;
 using System.Web.Http.ExceptionHandling;
 
-namespace UniRitter.UniRitter2015
+namespace UniRitter.UniRitter2016
 {
     public class Startup
     {

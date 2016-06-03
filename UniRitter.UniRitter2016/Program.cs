@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.Owin.Hosting;
-using UniRitter.UniRitter2015.Support;
+using UniRitter.UniRitter2016.Support;
 
-namespace UniRitter.UniRitter2015
+namespace UniRitter.UniRitter2016
 {
     public class Program
     {

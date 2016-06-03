@@ -4,9 +4,9 @@ using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using TechTalk.SpecFlow;
-using UniRitter.UniRitter2015.Models;
+using UniRitter.UniRitter2016.Models;
 
-namespace UniRitter.UniRitter2015.Specs
+namespace UniRitter.UniRitter2016.Specs
 {
     [Binding]
     public class HealthCheckAPISteps
